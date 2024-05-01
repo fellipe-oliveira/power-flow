@@ -1,3 +1,6 @@
+Limitação:
+- Apenas um gerador equivalente por barra é permitido.
+
 Execução:
 
 ```
